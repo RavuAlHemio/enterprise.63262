@@ -1,0 +1,8 @@
+1.3.6.1.4.1.63262.1 ohosekLdap
+
+-- subtrees set up to mirror 2.5.*
+
+1.3.6.1.4.1.63262.1.4 ohosekLdapAttribute
+
+1.3.6.1.4.1.63262.1.6 ohosekLdapObjectClass
+1.3.6.1.4.1.63262.1.6.1 ohosekLdapGenericContainer
